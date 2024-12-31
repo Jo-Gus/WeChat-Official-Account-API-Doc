@@ -1,0 +1,66 @@
+{
+  "code": 0,
+  "credits": 0.0035,
+  "result": {
+    "electedComment": [
+      {
+        "content": "中了，纸巾🧻[庆祝]",
+        "create_time": 1710900413,
+        "id": 4,
+        "identity_name": "oySNL1IV4fY2eUXLDZiKsAO06fwQ",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广东"
+        },
+        "is_top": 0,
+        "logo_url": "http://wx.qlogo.cn/mmopen/nEI7ntgkm82Qiafvole5A5VNbDjjV4FdUQHHHDekBfibG5wUFskQuzT4PeVSA0osKiaDdMibGYqLiba4KtVe1jtRk4FTsDK1o2xDX/64",
+        "nick_name": "暴雨",
+        "reply_new": {
+          "max_reply_id": 2,
+          "reply_list": [],
+          "reply_total_cnt": 0
+        },
+        "segment": {
+          "end_offset": 0,
+          "start_offset": 0
+        }
+      },
+      {
+        "content": "i深圳，爱深圳，好运给我来！",
+        "create_time": 1710894197,
+        "id": 3,
+        "identity_name": "oySNL1AHxmZL655j1jwnHv1_J1rM",
+        "identity_type": 0,
+        "ip_wording": {
+          "city_id": "",
+          "city_name": "",
+          "country_id": "156",
+          "country_name": "中国",
+          "province_id": "",
+          "province_name": "广东"
+        },
+        "is_top": 0,
+        "logo_url": "http://wx.qlogo.cn/mmopen/nEI7ntgkm80ib2ib14VRcCnibQCCKNyf0vqTPNSCQpxicbEjyeyRa4sCEDaUfb4eju71oj2hlhsu3GHTIV5d3vnCEf0Me2IxiadEQ/64",
+        "nick_name": "知知",
+        "reply_new": {
+          "max_reply_id": 1,
+          "reply_list": [],
+          "reply_total_cnt": 0
+        },
+        "segment": {
+          "end_offset": 0,
+          "start_offset": 0
+        }
+      }
+    ],
+    "electedCommentTotalCnt": 2,
+    "enabled": 1,
+    "onlyFansCanComment": false
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/wechat-official-account-312d"
+}
